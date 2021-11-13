@@ -4,7 +4,7 @@
   "middleName": "Piotr",
   "lastName": "Harlender",
   "age": 17,
-  "sex": "Male",
+  "sex": "Non-binary",
   "gender": "Agender",
   "pronouns": "Any",
   "pesonalityType": "INFP-T",
