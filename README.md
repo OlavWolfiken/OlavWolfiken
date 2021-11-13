@@ -9,4 +9,3 @@
   "pesonalityType": "INFP-T",
   "hobby": "Writing"
 }
-```
