@@ -1,14 +1,27 @@
 ![Metrics](https://metrics.lecoq.io/OlavWolfiken?template=classic&config.timezone=Europe%2FWarsaw)
 
-```json
-{
-  "firstName":"Olaf"
-  "middleName":"Piotr"
-  "lastName":"Harlender"
-  "age":17
-  "gender":"None"
-  "pronouns":"Any"
-  "pesonalityType":"INFP-T"
-  "hobby": "Writing"
+```c#
+.name{
+  first:"Olaf";
+  middle:"Piotr";
+  last:"Harlender"
+}
+.age{
+  ammount:17
+}
+.birthday{
+  day:13;
+  month:10;
+  year:2004;
+}
+.gender{
+  identity:"Agender";
+  pronouns:"Any"
+}
+.pesonality{
+  type:"INFP-T"
+}
+.hobby{
+  content:"Writing"
 }
 ```
