@@ -1,1 +1,10 @@
-![Metrics](https://metrics.lecoq.io/OlavWolfiken?template=classic&people=1&languages=1&stars=1&activity=1&achievements=1&repositories=1&gists=1&pagespeed=1&base.indepth=false&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=public&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&pagespeed.url=https%3A%2F%2Folavwolfiken.github.io%2FBetterDiscord%2F&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Europe%2FWarsaw)
+<p align="center">
+	<img width="40" src="https://github.githubassets.com/images/mona-loading-default.gif">
+<p align="center"><strong>We didn't receive a proper request from your browser.</strong></p>
+<p align="center">Sorry about that. Please try refreshing and contact us if the problem persists.</p>
+<p align="center">
+	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Contact Support</a> —
+	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">GitHub Status</a> —
+	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">@githubstatus</a>
+</p>
+</p>
